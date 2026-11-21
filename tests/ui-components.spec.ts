@@ -1,7 +1,7 @@
 import { expect, test } from '@playwright/test'
 
 test.beforeEach(async ({ page }) => {
-  page.goto('https://playground.bondaracademy.com/')
+  await page.goto('https://playground.bondaracademy.com/')
 })
 
 test.describe('Form Layout page', () => {
