@@ -8,6 +8,7 @@ Automated UI tests written with [Playwright](https://playwright.dev) and TypeScr
 - How to locate any web element on the page following Playwright best practices.
 - How to use the Page Object Model (POM) design pattern to improve code reusability.
 - How to use a Page Object Manager to centralise the creation and access of page-object instances in a Playwright test framework.
+- How to mock API responses and how to perform API request
 
 ## Setup
 
